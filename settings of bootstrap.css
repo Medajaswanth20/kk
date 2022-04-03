@@ -1,0 +1,37 @@
+h5 
+{
+	font-family: Oswald;
+	font-size:<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
+}
+h1
+{
+	text-align: center;
+}
+hr
+{
+}
+img
+{
+	width: 150px;
+}
+div input a:hover
+{
+	width: 250px;
+	color: darkred;
+}
+li a:hover
+{
+	color: darkred;
+}
+.navbar-brand:hover
+{
+	color: none;
+	text-decoration: underline;
+}
+footer
+{
+	font-style: none;
+	display: inline;
+}
